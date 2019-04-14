@@ -1,5 +1,5 @@
 # First Programming Olympiad At UFAZ 2019
-##__[Quarter Final Stage](https://github.com/anarmammad/FirstProgrammingOlympiadAtUFAZ/tree/master/src/QuarterFinal)__ 
+##[Quarter Final Stage](https://github.com/anarmammad/FirstProgrammingOlympiadAtUFAZ/tree/master/src/QuarterFinal)
 
-##__[Semi Final Stage](https://github.com/anarmammad/FirstProgrammingOlympiadAtUFAZ/tree/master/src/SemiFinal)__ 
+##[Semi Final Stage](https://github.com/anarmammad/FirstProgrammingOlympiadAtUFAZ/tree/master/src/SemiFinal)
 
